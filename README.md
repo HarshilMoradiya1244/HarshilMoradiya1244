@@ -1,0 +1,52 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+
+</p>
+<p align="center"> 
+ <img src="https://readme-typing-svg.herokuapp.com?color=0084E7&size=25&lines=Hi+there+👋">
+</p>
+<h3 align="center">I'm Harshil Moradiya</h3>
+<p align="center">I'm a 18 year old self-taught programmer. I'm currenntly learing Flutter and looking to collaborate with others on projetcs related to Building Apps. ✨
+
+- 👀 I’m Interested in Programming
+
+![](https://komarev.com/ghpvc/?username=vishwas-kr&color=lightgrey)
+
+## 🛠️ Tech Stack:
+![Flutter](https://img.shields.io/badge/-Flutter-555?style=flat&logo=Flutter&logoColor=5CC3F0)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-555?style=flat&logo=Firebase&logoColor=FFBF00)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=Dart&logoColor=2BB1EE)&nbsp;
+![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=C%2B%2B&logoColor=fff)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![Postman](https://img.shields.io/badge/-Postman-555?style=flat&logo=Postman&logoColor=FF5F1F)&nbsp;
+![Json](https://img.shields.io/badge/-Json-555?style=flat&logo=Json)&nbsp;
+<div style="display: inline_block"><br>
+    <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img align="right" alt="Pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/RPDLDSg.png">
+</div>
+
+## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+<a href="https://www.linkedin.com/in/harshil-moradiya-008006252/" target="blank" >
+  <img align="left"  src="https://img.shields.io/badge/-Linkedin-555?style=flat&logo=Linkedin" />
+  </a>
+  <a href="mailto:harshilmoradiya1244@gmail.com">
+  <img align="left"  src="https://img.shields.io/badge/-Gmail-555?style=flat&logo=Gmail" />
+  </a>
+  <br>
+  <br>
+
+  <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently working on **Flutter**
+
+- 💬 Ask me about **Flutter, Dart, Firebase and API**
+
+- 📫 How to reach me **harshilmoradiya1244@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://github.com/HarshilMoradiya1244?tab=repositories)
