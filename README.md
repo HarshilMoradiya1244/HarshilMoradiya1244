@@ -14,6 +14,10 @@
 
 ## 🛠️ Tech Stack:
 ![Flutter](https://img.shields.io/badge/-Flutter-555?style=flat&logo=Flutter&logoColor=5CC3F0)&nbsp;
+![iOS](https://img.shields.io/badge/-iOS-555?style=flat&logo=Apple&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-555?style=flat&logo=Swift&logoColor=FA7343)
+![PHP](https://img.shields.io/badge/-PHP-555?style=flat&logo=PHP&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/-Laravel-555?style=flat&logo=Laravel&logoColor=FF2D20)
 ![Firebase](https://img.shields.io/badge/-Firebase-555?style=flat&logo=Firebase&logoColor=FFBF00)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=Dart&logoColor=2BB1EE)&nbsp;
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
