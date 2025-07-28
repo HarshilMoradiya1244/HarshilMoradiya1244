@@ -18,6 +18,9 @@
 ![Swift](https://img.shields.io/badge/-Swift-555?style=flat&logo=Swift&logoColor=FA7343)
 ![PHP](https://img.shields.io/badge/-PHP-555?style=flat&logo=PHP&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/-Laravel-555?style=flat&logo=Laravel&logoColor=FF2D20)
+![Xcode](https://img.shields.io/badge/-Xcode-555?style=flat&logo=Xcode&logoColor=1575F9)
+![UIKit](https://img.shields.io/badge/-UIKit-555?style=flat&logo=Apple&logoColor=white)
+![CocoaPods](https://img.shields.io/badge/-CocoaPods-555?style=flat&logo=CocoaPods&logoColor=E03A2F)
 ![Firebase](https://img.shields.io/badge/-Firebase-555?style=flat&logo=Firebase&logoColor=FFBF00)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-555?style=flat&logo=Dart&logoColor=2BB1EE)&nbsp;
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -28,6 +31,14 @@
 ![Json](https://img.shields.io/badge/-Json-555?style=flat&logo=Json)&nbsp;
 <div style="display: inline_block"><br>
     <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
+    <img align="center" alt="Xcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
+    <img align="center" alt="Apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
+    <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+    <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="CocoaPods" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cocoapods/cocoapods-plain.svg">
+    <img align="center" alt="Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg">
     <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
