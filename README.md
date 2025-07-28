@@ -6,7 +6,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?color=0084E7&size=25&lines=Hi+there+👋">
 </p>
 <h3 align="center">I'm Harshil Moradiya</h3>
-<p align="center">I'm a 18 year old self-taught programmer. I'm currenntly learing Flutter and looking to collaborate with others on projetcs related to Building Apps. ✨
+<p align="center">I'm a 18 year old self-taught programmer. I'm currenntly working on Flutter , IOS , Swift , PHP , Laravel  and looking to collaborate with others on projetcs related to Building Apps. ✨
 
 - 👀 I’m Interested in Programming
 
