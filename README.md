@@ -35,9 +35,9 @@
     <img align="center" alt="Xcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
     <img align="center" alt="Apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
     <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-    <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png" alt="Laravel" height="30" width="40" />
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="CocoaPods" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cocoapods/cocoapods-plain.svg">
+    <img src="https://raw.githubusercontent.com/CocoaPods/shared_resources/master/website/logo/icon.png" alt="CocoaPods" height="30" width="40" />
     <img align="center" alt="Composer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg">
     <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
     <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
